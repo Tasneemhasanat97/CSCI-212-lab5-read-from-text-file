@@ -1,0 +1,8 @@
+8
+hello
+goodbye
+cat
+dog
+green
+sun
+moon
